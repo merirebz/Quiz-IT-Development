@@ -1,0 +1,6 @@
+*{margin: 0;
+padding: 0;}
+body{
+    height: 100vh;
+    background-image: linear-gradient(rgb(241, 192, 192),rgb(188, 121, 233));
+}
